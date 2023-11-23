@@ -1,24 +1,26 @@
-package main
+// package main
 
-import (
-	"fmt"
-)
+// import (
+// 	"fmt"
+// )
 
-func main(){
+// func main(){
 
-	const name string ="Tom"
-	fmt.Println(name)
+// 	fmt.Println("Hello, world!")
 
-	const age = 30
-	fmt.Println(age)
+// 	const name string ="Tom"
+// 	fmt.Println(name)
 
-
-	const name_1,name_2 string = "Tom","Jay"
-	fmt.Println(name_1, name_2)
+// 	const age = 30
+// 	fmt.Println(age)
 
 
-	const name_3,age_1 = "Tom", 30
-	fmt.Println(name_3, age_1)
+// 	const name_1,name_2 string = "Tom","Jay"
+// 	fmt.Println(name_1, name_2)
 
 
-}
+// 	const name_3,age_1 = "Tom", 30
+// 	fmt.Println(name_3, age_1)
+
+
+// }

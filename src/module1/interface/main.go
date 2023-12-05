@@ -50,4 +50,5 @@ func main() {
 	p.vendor = "testVendor"
 	p.model = "testModel"
 	fmt.Println(p.getName())
+
 }
